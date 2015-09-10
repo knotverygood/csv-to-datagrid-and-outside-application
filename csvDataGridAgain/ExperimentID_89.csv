@@ -1,0 +1,41 @@
+material_name,material_alias,period,letter
+HT-000001331,,r1,A1
+HT-000001330,alias 3 not 4,r2,A2
+dummy,,,A3
+RS-000001336,,r4,A4
+HT-000001335,,r2,A5
+dummy,,,A6
+HT-000001334,,r2,A7
+HT-000001328,alias1,r1,A8
+HT-000001333,,r2,B1
+dummy,,,B2
+dummy,,,B3
+HT-000001332,,r1,B4
+dummy,,,B5
+HT-000001332,,r2,B6
+HT-000001329,alias 2,r2,B7
+dummy,,,B8
+dummy,,,C1
+dummy,,,C2
+HT-000001329,alias 2,r1,C3
+HT-000001334,,r1,C4
+RS-000001336,,r1,C5
+dummy,,,C6
+HT-000001333,,r1,C7
+dummy,,,C8
+dummy,,,D1
+dummy,,,D2
+dummy,,,D3
+dummy,,,D4
+RS-000001336,,r2,D5
+dummy,,,D6
+HT-000001330,alias 3 not 4,r1,D7
+HT-000001331,,r2,D8
+dummy,,,E1
+dummy,,,E2
+HT-000001335,,r1,E3
+RS-000001336,,r3,E4
+dummy,,,E5
+RS-000001336,,r5,E6
+HT-000001328,alias1,r2,E7
+dummy,,,E8
